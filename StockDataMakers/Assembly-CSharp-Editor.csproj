@@ -254,13 +254,13 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
  </Reference>
  <Reference Include="EPPlus">
- <HintPath>C:/UnityProjects/StockDataMakers/Assets/GameDataEditor/Editor/ExcelImport/Dlls/EPPlus.dll</HintPath>
+ <HintPath>C:/Git_StockDataMaker/StockDataMakers/Assets/GameDataEditor/Editor/ExcelImport/Dlls/EPPlus.dll</HintPath>
  </Reference>
  <Reference Include="Google.GData.Client">
- <HintPath>C:/UnityProjects/StockDataMakers/Assets/GameDataEditor/Editor/ExcelImport/Dlls/Google.GData.Client.dll</HintPath>
+ <HintPath>C:/Git_StockDataMaker/StockDataMakers/Assets/GameDataEditor/Editor/ExcelImport/Dlls/Google.GData.Client.dll</HintPath>
  </Reference>
  <Reference Include="Newtonsoft.Json">
- <HintPath>C:/UnityProjects/StockDataMakers/Assets/GameDataEditor/Editor/ExcelImport/Dlls/Newtonsoft.Json.dll</HintPath>
+ <HintPath>C:/Git_StockDataMaker/StockDataMakers/Assets/GameDataEditor/Editor/ExcelImport/Dlls/Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
