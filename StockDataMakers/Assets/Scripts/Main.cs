@@ -107,8 +107,7 @@ public class Main : MonoBehaviour {
 
 		Debug.Log ("<color=#ffff00>通达信</color>  <color=#ffffff>自选股文件已经输出，文件位置:</color>   <color=#00ff00>" + path + "</color>");
 	}
-
-
+		
 	//创建金阳光自选股文件
 	void BuildTS_txt()
 	{
